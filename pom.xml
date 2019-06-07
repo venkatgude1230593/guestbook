@@ -162,21 +162,6 @@
                 </configuration>
             </plugin>
         </plugins>
-		<plugins>
-
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-				<dependencies>
-					<dependency>
-						<groupId>org.springframework.boot.experimental</groupId>
-						<artifactId>spring-boot-thin-layout</artifactId>
-						<version>1.0.21.RELEASE</version>
-					</dependency>
-				</dependencies>
-			</plugin>
-
-		</plugins>
 
 	<repositories>
 		<repository>
